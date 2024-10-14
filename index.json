@@ -1,0 +1,30 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ciiipreses.github.io/foresti/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "foresti"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://ciiipreses.github.io/foresti/cildcmk809ml18ksurhvx/5345d84382a39dbb28d569b9ba401acb/full/203,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 203
+        }
+    ],
+    "items": [
+        {
+            "id": "https://ciiipreses.github.io/foresti/cildcmk809ml18ksurhvx/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "De plurimis claris selectisque Mulieribus"
+                ]
+            }
+        }
+    ]
+}
