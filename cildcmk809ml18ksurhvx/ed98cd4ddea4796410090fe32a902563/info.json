@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://ciiipreses.github.io/foresti/cildcmk809ml18ksurhvx/ed98cd4ddea4796410090fe32a902563",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16
+      ],
+      "width": 256
+    }
+  ],
+  "width": 5420,
+  "height": 7600,
+  "sizes": [
+    {
+      "width": 214,
+      "height": 300
+    },
+    {
+      "width": 1426,
+      "height": 2000
+    }
+  ]
+}
